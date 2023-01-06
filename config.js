@@ -22,7 +22,7 @@ var config = {
     imgs: {},
 
     desc: {
-        turn_on: "乌漆嘛黑 开个灯！",
+        turn_on: "怎么乌漆嘛黑的？",
         play: "要不要来点音乐！",
         bannar_coming: "这个按钮是干嘛的呢？",
         balloons_flying: "好像少了些东西？",
